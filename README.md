@@ -25,3 +25,32 @@ A full-stack web application designed to collect, manage, and analyze student fe
 ---
 
 ## 🏗️ Project Structure
+
+---
+
+## ⚙️ Tech Stack
+
+### Frontend
+- React.js
+- Axios
+- React Router
+
+### Backend
+- Django
+- Django REST Framework
+
+### Database
+- SQLite
+
+### Other Tools
+- Git & GitHub
+- JWT Authentication
+
+---
+
+## 🛠️ Installation & Setup
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/your-username/student-feedback-system.git
+cd student-feedback-system
