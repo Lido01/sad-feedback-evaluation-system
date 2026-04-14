@@ -1,2 +1,27 @@
-# sad-feedback-evaluation-system
-A web-based platform designed to streamline the process of collecting, managing, and analyzing student feedback on courses, instructors, and academic services. The system enables students to provide anonymous evaluations while allowing administrators and instructors to access structured reports for decision-making.
+# 🎓 Student Feedback and Evaluation System
+
+A full-stack web application designed to collect, manage, and analyze student feedback on courses and instructors. This system helps educational institutions improve teaching quality through structured and anonymous feedback.
+
+---
+
+## 🚀 Features
+
+### 👤 Authentication
+- User registration and login
+- JWT-based authentication
+- Role-based access (Student, Admin, Instructor)
+
+### 📝 Feedback System
+- Submit course feedback
+- Rating system (1–5)
+- Anonymous feedback option
+- Comment submission
+
+### 📊 Dashboard & Reports
+- View feedback analytics
+- Course-based filtering
+- Instructor performance insights
+
+---
+
+## 🏗️ Project Structure
